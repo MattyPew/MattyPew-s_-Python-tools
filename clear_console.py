@@ -20,7 +20,7 @@ elif system == "Linux":
     cls = "os.system('clear')"
 
 else:
-    print("No operating system detected, cannot be cls command cannot be set...")
+    print("No operating system detected, command cannot be set...")
 
 ######################################
 # EXECUTING CLS
